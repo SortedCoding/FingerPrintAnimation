@@ -9,5 +9,5 @@ Project Image:
 
 Final Output:- 
 
-<img align="right" src="https://github.com/SortedCoding/FingerPrintAnimation/blob/main/output.gif" alt="Coder GIF" >
+<img align="center" src="https://github.com/SortedCoding/FingerPrintAnimation/blob/main/output.gif" alt="Coder GIF" >
 
