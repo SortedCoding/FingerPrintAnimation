@@ -9,5 +9,5 @@ Project Image:
 
 Final Output:- 
 
-![screenshot](fingerprint.mp4)
+<img align="right" src="https://github.com/SortedCoding /SortedCoding/blob/main/fingerprint.mp4" alt="Coder GIF" width="420" height="330">
 
