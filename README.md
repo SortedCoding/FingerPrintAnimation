@@ -9,3 +9,7 @@ Final Output:-
 
 <img align="center" src="https://github.com/SortedCoding/FingerPrintAnimation/blob/main/output.gif" alt="Coder GIF" >
 
+![screenshot](out1.png)
+![screenshot](out2.png)
+![screenshot](out3.png)
+
